@@ -1,6 +1,6 @@
-### Day 3
+## Day 3
 
-1. what’s the difference between CMD and ENTRYPOINT?
+## 1. what’s the difference between CMD and ENTRYPOINT?
 
 CMD provides a default command or arguments for a container, which can be easily overridden by a user at runtime. ENTRYPOINT defines the main executable that will always run when the container starts.
 Key Differences
